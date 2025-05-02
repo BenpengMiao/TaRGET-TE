@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="mm10" locus="chr14:54708598-54721645" nextAutoscaleGroup="3" version="8">
+    <Resources>
+        <Resource index="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/MU_RNA_PM2.5_M18_Li_F_adt_L35.sortedByCoord.out.bam.bai" path="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/MU_RNA_PM2.5_M18_Li_F_adt_L35.sortedByCoord.out.bam" type="bam"/>
+        <Resource index="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/MU_RNA_Ctrl_M5_Li_M_adt_L5.sortedByCoord.out.bam.bai" path="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/MU_RNA_Ctrl_M5_Li_M_adt_L5.sortedByCoord.out.bam" type="bam"/>
+        <Resource index="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/MU_RNA_PM2.5_M17_Li_M_adt_L32.sortedByCoord.out.bam.bai" path="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/MU_RNA_PM2.5_M17_Li_M_adt_L32.sortedByCoord.out.bam" type="bam"/>
+        <Resource index="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/MU_RNA_Ctrl_M7_Li_F_adt_L7.sortedByCoord.out.bam.bai" path="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/MU_RNA_Ctrl_M7_Li_F_adt_L7.sortedByCoord.out.bam" type="bam"/>
+    </Resources>
+    <Panel height="598" name="Panel1708115920281" width="1850">
+        <Track attributeKey="MU_RNA_PM2.5_M17_Li_M_adt_L32.sortedByCoord.out.bam Coverage" autoScale="true" clazz="org.broad.igv.sam.CoverageTrack" fontSize="10" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/MU_RNA_PM2.5_M17_Li_M_adt_L32.sortedByCoord.out.bam_coverage" name="MU_RNA_PM2.5_M17_Li_M_adt_L32.sortedByCoord.out.bam Coverage" snpThreshold="0.2" visible="true">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="50.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="MU_RNA_PM2.5_M17_Li_M_adt_L32.sortedByCoord.out.bam Junctions" autoScale="false" clazz="org.broad.igv.sam.SpliceJunctionTrack" fontSize="10" groupByStrand="false" height="60" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/MU_RNA_PM2.5_M17_Li_M_adt_L32.sortedByCoord.out.bam_junctions" maxdepth="50" name="MU_RNA_PM2.5_M17_Li_M_adt_L32.sortedByCoord.out.bam Junctions" visible="true"/>
+        <Track attributeKey="MU_RNA_PM2.5_M17_Li_M_adt_L32.sortedByCoord.out.bam" clazz="org.broad.igv.sam.AlignmentTrack" color="185,185,185" experimentType="RNA" fontSize="10" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/MU_RNA_PM2.5_M17_Li_M_adt_L32.sortedByCoord.out.bam" name="MU_RNA_PM2.5_M17_Li_M_adt_L32.sortedByCoord.out.bam" visible="true">
+            <RenderOptions/>
+        </Track>
+    </Panel>
+    <Panel height="553" name="Panel1708116009626" width="1850">
+        <Track attributeKey="MU_RNA_PM2.5_M18_Li_F_adt_L35.sortedByCoord.out.bam Coverage" autoScale="true" clazz="org.broad.igv.sam.CoverageTrack" fontSize="10" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/MU_RNA_PM2.5_M18_Li_F_adt_L35.sortedByCoord.out.bam_coverage" name="MU_RNA_PM2.5_M18_Li_F_adt_L35.sortedByCoord.out.bam Coverage" snpThreshold="0.2" visible="true">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="44.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="MU_RNA_PM2.5_M18_Li_F_adt_L35.sortedByCoord.out.bam Junctions" autoScale="false" clazz="org.broad.igv.sam.SpliceJunctionTrack" fontSize="10" groupByStrand="false" height="60" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/MU_RNA_PM2.5_M18_Li_F_adt_L35.sortedByCoord.out.bam_junctions" maxdepth="50" name="MU_RNA_PM2.5_M18_Li_F_adt_L35.sortedByCoord.out.bam Junctions" visible="true"/>
+        <Track attributeKey="MU_RNA_PM2.5_M18_Li_F_adt_L35.sortedByCoord.out.bam" clazz="org.broad.igv.sam.AlignmentTrack" color="185,185,185" experimentType="RNA" fontSize="10" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/MU_RNA_PM2.5_M18_Li_F_adt_L35.sortedByCoord.out.bam" name="MU_RNA_PM2.5_M18_Li_F_adt_L35.sortedByCoord.out.bam" visible="true">
+            <RenderOptions/>
+        </Track>
+    </Panel>
+    <Panel height="732" name="Panel1708116392208" width="1850">
+        <Track attributeKey="MU_RNA_Ctrl_M5_Li_M_adt_L5.sortedByCoord.out.bam Coverage" autoScale="true" clazz="org.broad.igv.sam.CoverageTrack" fontSize="10" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/MU_RNA_Ctrl_M5_Li_M_adt_L5.sortedByCoord.out.bam_coverage" name="MU_RNA_Ctrl_M5_Li_M_adt_L5.sortedByCoord.out.bam Coverage" snpThreshold="0.2" visible="true">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="42.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="MU_RNA_Ctrl_M5_Li_M_adt_L5.sortedByCoord.out.bam Junctions" autoScale="false" clazz="org.broad.igv.sam.SpliceJunctionTrack" fontSize="10" groupByStrand="false" height="60" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/MU_RNA_Ctrl_M5_Li_M_adt_L5.sortedByCoord.out.bam_junctions" maxdepth="50" name="MU_RNA_Ctrl_M5_Li_M_adt_L5.sortedByCoord.out.bam Junctions" visible="true"/>
+        <Track attributeKey="MU_RNA_Ctrl_M5_Li_M_adt_L5.sortedByCoord.out.bam" clazz="org.broad.igv.sam.AlignmentTrack" color="185,185,185" displayMode="EXPANDED" experimentType="RNA" fontSize="10" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/MU_RNA_Ctrl_M5_Li_M_adt_L5.sortedByCoord.out.bam" name="MU_RNA_Ctrl_M5_Li_M_adt_L5.sortedByCoord.out.bam" visible="true">
+            <RenderOptions/>
+        </Track>
+    </Panel>
+    <Panel height="858" name="Panel1708116665346" width="1850">
+        <Track attributeKey="MU_RNA_Ctrl_M7_Li_F_adt_L7.sortedByCoord.out.bam Coverage" autoScale="true" clazz="org.broad.igv.sam.CoverageTrack" fontSize="10" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/MU_RNA_Ctrl_M7_Li_F_adt_L7.sortedByCoord.out.bam_coverage" name="MU_RNA_Ctrl_M7_Li_F_adt_L7.sortedByCoord.out.bam Coverage" snpThreshold="0.2" visible="true">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="47.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="MU_RNA_Ctrl_M7_Li_F_adt_L7.sortedByCoord.out.bam Junctions" autoScale="false" clazz="org.broad.igv.sam.SpliceJunctionTrack" fontSize="10" groupByStrand="false" height="60" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/MU_RNA_Ctrl_M7_Li_F_adt_L7.sortedByCoord.out.bam_junctions" maxdepth="50" name="MU_RNA_Ctrl_M7_Li_F_adt_L7.sortedByCoord.out.bam Junctions" visible="true"/>
+        <Track attributeKey="MU_RNA_Ctrl_M7_Li_F_adt_L7.sortedByCoord.out.bam" clazz="org.broad.igv.sam.AlignmentTrack" color="185,185,185" displayMode="EXPANDED" experimentType="RNA" fontSize="10" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/MU_RNA_Ctrl_M7_Li_F_adt_L7.sortedByCoord.out.bam" name="MU_RNA_Ctrl_M7_Li_F_adt_L7.sortedByCoord.out.bam" visible="true">
+            <RenderOptions/>
+        </Track>
+    </Panel>
+    <Panel height="40" name="FeaturePanel" width="1850">
+        <Track attributeKey="Reference sequence" clazz="org.broad.igv.track.SequenceTrack" fontSize="10" id="Reference sequence" name="Reference sequence" sequenceTranslationStrandValue="+" shouldShowTranslation="false" visible="true"/>
+        <Track attributeKey="Refseq Genes" clazz="org.broad.igv.track.FeatureTrack" colorScale="ContinuousColorScale;0.0;466.0;255,255,255;0,0,178" fontSize="10" groupByStrand="false" id="https://hgdownload.soe.ucsc.edu/goldenPath/mm10/database/ncbiRefSeq.txt.gz" name="Refseq Genes" visible="true"/>
+    </Panel>
+    <PanelLayout dividerFractions="0.014705882352941176,0.23897058823529413,0.47794117647058826,0.7169117647058824,0.9558823529411765"/>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>
