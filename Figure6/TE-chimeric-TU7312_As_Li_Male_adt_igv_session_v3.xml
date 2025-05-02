@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="mm10" locus="chr3:129831630-129878544" nextAutoscaleGroup="3" version="8">
+    <Resources>
+        <Resource path="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/ZB_RNA_As_M16_Li_M_adt_L25.sortedByCoord.out.bam" type="bam"/>
+        <Resource path="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/ZB_RNA_Ctrl_M59_Li_M_adt_L96.sortedByCoord.out.bam" type="bam"/>
+        <Resource index="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/ZB_RNA_As_M60_Li_F_adt_L97.sortedByCoord.out.bam.bai" path="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/ZB_RNA_As_M60_Li_F_adt_L97.sortedByCoord.out.bam" type="bam"/>
+        <Resource path="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/ZB_RNA_Ctrl_M4_Li_F_adt_L4.sortedByCoord.out.bam" type="bam"/>
+    </Resources>
+    <Panel height="11257" name="Panel1722445286812" width="1854">
+        <Track _color="204,153,255" attributeKey="ZB_RNA_As_M60_Li_F_adt_L97.sortedByCoord.out.bam Coverage" autoScale="false" clazz="org.broad.igv.sam.CoverageTrack" fontSize="10" height="30" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/ZB_RNA_As_M60_Li_F_adt_L97.sortedByCoord.out.bam_coverage" name="ZB_RNA_As_M60_Li_F_adt_L97.sortedByCoord.out.bam Coverage" snpThreshold="0.2" visible="true">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="8000.0" minimum="0.0" type="LOG"/>
+        </Track>
+        <Track altColor="204,0,204" attributeKey="ZB_RNA_As_M60_Li_F_adt_L97.sortedByCoord.out.bam Junctions" autoScale="false" clazz="org.broad.igv.sam.SpliceJunctionTrack" color="153,153,153" fontSize="10" groupByStrand="false" height="50" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/ZB_RNA_As_M60_Li_F_adt_L97.sortedByCoord.out.bam_junctions" maxdepth="50" name="ZB_RNA_As_M60_Li_F_adt_L97.sortedByCoord.out.bam Junctions" visible="true"/>
+        <Track attributeKey="ZB_RNA_As_M60_Li_F_adt_L97.sortedByCoord.out.bam" clazz="org.broad.igv.sam.AlignmentTrack" color="204,153,255" experimentType="RNA" fontSize="10" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/ZB_RNA_As_M60_Li_F_adt_L97.sortedByCoord.out.bam" name="ZB_RNA_As_M60_Li_F_adt_L97.sortedByCoord.out.bam" visible="true">
+            <RenderOptions colorOption="NONE" groupByOption="FIRST_OF_PAIR_STRAND" hideSmallIndels="true" shadeBasesOption="false" showMismatches="false" smallIndelThreshold="0" sortOption="FIRST_OF_PAIR_STRAND"/>
+        </Track>
+    </Panel>
+    <Panel height="16481" name="Panel1722445665813" width="1854">
+        <Track _color="153,153,255" attributeKey="ZB_RNA_Ctrl_M4_Li_F_adt_L4.sortedByCoord.out.bam Coverage" autoScale="false" clazz="org.broad.igv.sam.CoverageTrack" fontSize="10" height="30" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/ZB_RNA_Ctrl_M4_Li_F_adt_L4.sortedByCoord.out.bam_coverage" name="ZB_RNA_Ctrl_M4_Li_F_adt_L4.sortedByCoord.out.bam Coverage" snpThreshold="0.2" visible="true">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="400.0" minimum="0.0" type="LOG"/>
+        </Track>
+        <Track attributeKey="ZB_RNA_Ctrl_M4_Li_F_adt_L4.sortedByCoord.out.bam Junctions" autoScale="false" clazz="org.broad.igv.sam.SpliceJunctionTrack" fontSize="10" groupByStrand="false" height="50" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/ZB_RNA_Ctrl_M4_Li_F_adt_L4.sortedByCoord.out.bam_junctions" maxdepth="50" name="ZB_RNA_Ctrl_M4_Li_F_adt_L4.sortedByCoord.out.bam Junctions" visible="true"/>
+        <Track attributeKey="ZB_RNA_Ctrl_M4_Li_F_adt_L4.sortedByCoord.out.bam" clazz="org.broad.igv.sam.AlignmentTrack" color="153,153,255" displayMode="EXPANDED" experimentType="RNA" fontSize="10" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/ZB_RNA_Ctrl_M4_Li_F_adt_L4.sortedByCoord.out.bam" name="ZB_RNA_Ctrl_M4_Li_F_adt_L4.sortedByCoord.out.bam" visible="true">
+            <RenderOptions groupByOption="FIRST_OF_PAIR_STRAND" hideSmallIndels="true" shadeBasesOption="false" showMismatches="false" smallIndelThreshold="0"/>
+        </Track>
+    </Panel>
+    <Panel height="11419" name="Panel1722446892531" width="1854">
+        <Track _color="255,153,153" attributeKey="ZB_RNA_As_M16_Li_M_adt_L25.sortedByCoord.out.bam Coverage" autoScale="true" clazz="org.broad.igv.sam.CoverageTrack" fontSize="10" height="30" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/ZB_RNA_As_M16_Li_M_adt_L25.sortedByCoord.out.bam_coverage" name="ZB_RNA_As_M16_Li_M_adt_L25.sortedByCoord.out.bam Coverage" snpThreshold="0.2" visible="true">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="8298.0" minimum="0.0" type="LOG"/>
+        </Track>
+        <Track attributeKey="ZB_RNA_As_M16_Li_M_adt_L25.sortedByCoord.out.bam Junctions" autoScale="false" clazz="org.broad.igv.sam.SpliceJunctionTrack" fontSize="10" groupByStrand="false" height="50" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/ZB_RNA_As_M16_Li_M_adt_L25.sortedByCoord.out.bam_junctions" maxdepth="50" name="ZB_RNA_As_M16_Li_M_adt_L25.sortedByCoord.out.bam Junctions" visible="true"/>
+        <Track attributeKey="ZB_RNA_As_M16_Li_M_adt_L25.sortedByCoord.out.bam" clazz="org.broad.igv.sam.AlignmentTrack" color="255,153,153" experimentType="RNA" fontSize="10" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/ZB_RNA_As_M16_Li_M_adt_L25.sortedByCoord.out.bam" name="ZB_RNA_As_M16_Li_M_adt_L25.sortedByCoord.out.bam" visible="true">
+            <RenderOptions groupByOption="FIRST_OF_PAIR_STRAND" hideSmallIndels="true" shadeBasesOption="false" showMismatches="false" smallIndelThreshold="0" sortOption="START"/>
+        </Track>
+    </Panel>
+    <Panel height="13930" name="Panel1722447196911" width="1854">
+        <Track _color="153,204,255" attributeKey="ZB_RNA_Ctrl_M59_Li_M_adt_L96.sortedByCoord.out.bam Coverage" autoScale="false" clazz="org.broad.igv.sam.CoverageTrack" fontSize="10" height="30" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/ZB_RNA_Ctrl_M59_Li_M_adt_L96.sortedByCoord.out.bam_coverage" name="ZB_RNA_Ctrl_M59_Li_M_adt_L96.sortedByCoord.out.bam Coverage" snpThreshold="0.2" visible="true">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="8000.0" minimum="0.0" type="LOG"/>
+        </Track>
+        <Track attributeKey="ZB_RNA_Ctrl_M59_Li_M_adt_L96.sortedByCoord.out.bam Junctions" autoScale="false" clazz="org.broad.igv.sam.SpliceJunctionTrack" fontSize="10" groupByStrand="false" height="50" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/ZB_RNA_Ctrl_M59_Li_M_adt_L96.sortedByCoord.out.bam_junctions" maxdepth="50" name="ZB_RNA_Ctrl_M59_Li_M_adt_L96.sortedByCoord.out.bam Junctions" visible="true"/>
+        <Track attributeKey="ZB_RNA_Ctrl_M59_Li_M_adt_L96.sortedByCoord.out.bam" clazz="org.broad.igv.sam.AlignmentTrack" color="153,204,255" experimentType="RNA" fontSize="10" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/ZB_RNA_Ctrl_M59_Li_M_adt_L96.sortedByCoord.out.bam" name="ZB_RNA_Ctrl_M59_Li_M_adt_L96.sortedByCoord.out.bam" visible="true">
+            <RenderOptions groupByOption="FIRST_OF_PAIR_STRAND" hideSmallIndels="true" shadeBasesOption="false" showMismatches="false" smallIndelThreshold="0"/>
+        </Track>
+    </Panel>
+    <Panel height="56" name="FeaturePanel" width="1854">
+        <Track attributeKey="Reference sequence" clazz="org.broad.igv.track.SequenceTrack" fontSize="10" id="Reference sequence" name="Reference sequence" sequenceTranslationStrandValue="+" shouldShowTranslation="false" visible="true"/>
+        <Track attributeKey="Refseq Genes" clazz="org.broad.igv.track.FeatureTrack" colorScale="ContinuousColorScale;0.0;466.0;255,255,255;0,0,178" fontSize="10" groupByStrand="false" id="https://hgdownload.soe.ucsc.edu/goldenPath/mm10/database/ncbiRefSeq.txt.gz" name="Refseq Genes" visible="true"/>
+    </Panel>
+    <PanelLayout dividerFractions="0.007168458781362007,0.017921146953405017,0.24611708482676226,0.5400238948626045,0.927120669056153"/>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>

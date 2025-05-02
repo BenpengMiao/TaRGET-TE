@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Session genome="mm10" locus="chr11:69002250-69011643" version="8">
+    <Resources>
+        <Resource index="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/WK_RNA_Ctrl_M39_Li_F_adt_L75.sortedByCoord.out.bam.bai" path="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/WK_RNA_Ctrl_M39_Li_F_adt_L75.sortedByCoord.out.bam" type="bam"/>
+        <Resource index="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/WK_RNA_TBT_M54_Li_F_adt_L93.sortedByCoord.out.bam.bai" path="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/WK_RNA_TBT_M54_Li_F_adt_L93.sortedByCoord.out.bam" type="bam"/>
+    </Resources>
+    <Panel height="451" name="Panel1708361675292" width="1848">
+        <Track _color="153,153,255" attributeKey="WK_RNA_Ctrl_M39_Li_F_adt_L75.sortedByCoord.out.bam Coverage" autoScale="false" clazz="org.broad.igv.sam.CoverageTrack" fontSize="10" height="30" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/WK_RNA_Ctrl_M39_Li_F_adt_L75.sortedByCoord.out.bam_coverage" name="WK_RNA_Ctrl_M39_Li_F_adt_L75.sortedByCoord.out.bam Coverage" snpThreshold="0.2" visible="true">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="60.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="WK_RNA_Ctrl_M39_Li_F_adt_L75.sortedByCoord.out.bam Junctions" autoScale="false" clazz="org.broad.igv.sam.SpliceJunctionTrack" fontSize="10" groupByStrand="false" height="40" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/WK_RNA_Ctrl_M39_Li_F_adt_L75.sortedByCoord.out.bam_junctions" maxdepth="50" name="WK_RNA_Ctrl_M39_Li_F_adt_L75.sortedByCoord.out.bam Junctions" visible="true"/>
+        <Track attributeKey="WK_RNA_Ctrl_M39_Li_F_adt_L75.sortedByCoord.out.bam" clazz="org.broad.igv.sam.AlignmentTrack" color="153,153,255" experimentType="RNA" fontSize="10" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/WK_RNA_Ctrl_M39_Li_F_adt_L75.sortedByCoord.out.bam" name="WK_RNA_Ctrl_M39_Li_F_adt_L75.sortedByCoord.out.bam" visible="true">
+            <RenderOptions hideSmallIndels="true" shadeBasesOption="false" showMismatches="false" smallIndelThreshold="0" sortOption="START"/>
+        </Track>
+    </Panel>
+    <Panel height="595" name="Panel1708362449965" width="1848">
+        <Track _color="255,102,204" attributeKey="WK_RNA_TBT_M54_Li_F_adt_L93.sortedByCoord.out.bam Coverage" autoScale="false" clazz="org.broad.igv.sam.CoverageTrack" fontSize="10" height="30" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/WK_RNA_TBT_M54_Li_F_adt_L93.sortedByCoord.out.bam_coverage" name="WK_RNA_TBT_M54_Li_F_adt_L93.sortedByCoord.out.bam Coverage" snpThreshold="0.2" visible="true">
+            <DataRange baseline="0.0" drawBaseline="true" flipAxis="false" maximum="60.0" minimum="0.0" type="LINEAR"/>
+        </Track>
+        <Track attributeKey="WK_RNA_TBT_M54_Li_F_adt_L93.sortedByCoord.out.bam Junctions" autoScale="false" clazz="org.broad.igv.sam.SpliceJunctionTrack" fontSize="10" groupByStrand="false" height="40" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/WK_RNA_TBT_M54_Li_F_adt_L93.sortedByCoord.out.bam_junctions" maxdepth="50" name="WK_RNA_TBT_M54_Li_F_adt_L93.sortedByCoord.out.bam Junctions" visible="true"/>
+        <Track attributeKey="WK_RNA_TBT_M54_Li_F_adt_L93.sortedByCoord.out.bam" clazz="org.broad.igv.sam.AlignmentTrack" color="255,102,204" experimentType="RNA" fontSize="10" id="https://wangftp.wustl.edu/~bmiao/TaRGET/assembled/WK_RNA_TBT_M54_Li_F_adt_L93.sortedByCoord.out.bam" name="WK_RNA_TBT_M54_Li_F_adt_L93.sortedByCoord.out.bam" visible="true">
+            <RenderOptions hideSmallIndels="true" shadeBasesOption="false" showMismatches="false" smallIndelThreshold="0" sortOption="START"/>
+        </Track>
+    </Panel>
+    <Panel height="78" name="FeaturePanel" width="1848">
+        <Track attributeKey="Reference sequence" clazz="org.broad.igv.track.SequenceTrack" fontSize="10" id="Reference sequence" name="Reference sequence" sequenceTranslationStrandValue="+" shouldShowTranslation="false" visible="true"/>
+        <Track attributeKey="Refseq Genes" clazz="org.broad.igv.track.FeatureTrack" colorScale="ContinuousColorScale;0.0;466.0;255,255,255;0,0,178" fontSize="10" groupByStrand="false" id="https://hgdownload.soe.ucsc.edu/goldenPath/mm10/database/ncbiRefSeq.txt.gz" name="Refseq Genes" visible="true"/>
+    </Panel>
+    <PanelLayout dividerFractions="0.007168458781362007,0.4157706093189964,0.9008363201911589"/>
+    <HiddenAttributes>
+        <Attribute name="DATA FILE"/>
+        <Attribute name="DATA TYPE"/>
+        <Attribute name="NAME"/>
+    </HiddenAttributes>
+</Session>
